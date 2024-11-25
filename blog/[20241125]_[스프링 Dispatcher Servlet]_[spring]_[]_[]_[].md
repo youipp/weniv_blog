@@ -12,5 +12,4 @@ HTTP 요청 수신
 4.View Resolver를 통해 적합한 View 결정
 5.View에 데이터를 전달하고 최종적으로 클라이언트에게 응답
 
-![ex_screenshot](../img/youipp/Spring_MVC_Architecture.png)
-
+<img src="../img/youipp/Spring_MVC_Architecture.png" alt="Spring MVC Architecture">
