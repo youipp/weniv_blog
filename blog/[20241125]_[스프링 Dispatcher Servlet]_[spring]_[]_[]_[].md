@@ -6,6 +6,7 @@ Spring MVC의 핵심 구성 요소로, 다른 컴포넌트 간의 조정 역할�
 작동 방식:
 
 HTTP 요청 수신
+
 1.요청 URL에 따라 적절한 핸들러를 찾기 위해 Handler Mapping 호출
 
 2.핸들러(Controller)에 요청 전달
